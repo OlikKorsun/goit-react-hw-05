@@ -1,0 +1,19 @@
+.form {
+    display: flex;
+    flex-direction: row;
+    align-items: baseline;
+    gap: 15px;
+    margin-left: 15px;
+}
+
+.field {
+    width: 200px;
+    outline: none;
+    border-radius: 5px;
+}
+
+.button {
+    background-color: PaleTurquoise;
+    border-radius: 5px;
+    padding: 2px;
+}

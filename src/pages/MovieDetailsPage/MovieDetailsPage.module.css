@@ -1,0 +1,25 @@
+.moviePoster {
+    width: 350px;
+}
+
+.movieCard {
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    align-items:flex-start;
+    padding: 15px;
+}
+
+.movieText {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+p {
+    margin-bottom: 15px;
+}
+
+h2 {
+    font-size: 20px;
+}
